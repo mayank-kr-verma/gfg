@@ -1,2 +1,2 @@
 # gfg
-geeksforgeeks solutions 
+geeksforgeeks solved
